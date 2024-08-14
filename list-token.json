@@ -1,0 +1,17 @@
+{
+    "as9i265ch4bcu": 
+    {
+        "LimitRPS": 10,
+        "BlockForSec": 300
+    },
+    "bxp2sl28mv78p":
+    {
+        "LimitRPS": 10,
+        "BlockForSec": 10
+    },
+    "cs79sf0hno6z7":
+    {
+        "LimitRPS": 5,
+        "BlockForSec": 60
+    }
+}

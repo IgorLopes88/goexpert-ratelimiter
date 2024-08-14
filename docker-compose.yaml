@@ -1,0 +1,8 @@
+services:
+  redis-rlgo:
+    container_name: redis-rlgo
+    image: redis
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+    ports:
+      - "6379:6379"
